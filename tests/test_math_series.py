@@ -41,3 +41,12 @@ def test_lucas_two():
     assert actual == expected
 
 # sum_series tests
+def test_sum_fib():
+    actual = sum_series(0)
+    expected = fibonacci(0)
+    assert actual == expected
+    
+def test_sum_luc():
+    actual = sum_series(1)
+    expected = lucas(1)
+    assert actual == expected
