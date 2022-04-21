@@ -1,5 +1,5 @@
 # Python 401d1818
-## Lab01: Snake-Cafe
+## Lab02: Math-Series
 ### Author: Steve Ngo
 
 ### Setup
