@@ -1,7 +1,5 @@
 # imports
-from math_series.math_series import fibonacci
-from math_series.math_series import lucas
-# from math_series.math_series import sum_series
+from math_series.math_series import fibonacci, lucas, sum_series
 
 # fibonacci tests
 def test_math_series_zero():
